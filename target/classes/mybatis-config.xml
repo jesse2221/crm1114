@@ -8,8 +8,9 @@
   
   <typeAliases>
   
-  	<!--<package name="com.xxx.domain"/>-->
-  	
+  	<package name="com.lsx.crm.settings.domain"/>
+  	<package name="com.lsx.crm.workbench.domain"/>
+
   
   </typeAliases>
   
@@ -28,8 +29,9 @@
  
   <mappers>
    
-      <!--<package name="com.xxx.dao"/>-->
-    
+      <package name="com.lsx.crm.settings.dao"/>
+      <package name="com.lsx.crm.workbench.dao"/>
+
   </mappers>
 </configuration>
 
