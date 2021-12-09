@@ -28,7 +28,6 @@
   
  
   <mappers>
-   
       <package name="com.lsx.crm.settings.dao"/>
       <package name="com.lsx.crm.workbench.dao"/>
 
