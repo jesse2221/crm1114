@@ -4,6 +4,10 @@ import javax.servlet.*;
 import java.io.IOException;
 
 public class EncodingFilter implements Filter {
+    public void init(FilterConfig filterConfig) throws ServletException {
+
+    }
+
     public void doFilter(ServletRequest req, ServletResponse resp, FilterChain chain) throws IOException,
             ServletException {
         System.out.println("进入到过滤字符编码的过滤器");
@@ -15,6 +19,10 @@ public class EncodingFilter implements Filter {
 
         //将请求放行
         chain.doFilter(req,resp);
+
+    }
+
+    public void destroy() {
 
     }
 }

@@ -9,6 +9,10 @@ import javax.servlet.http.HttpSession;
 import java.io.IOException;
 
 public class LoginFilter implements Filter {
+    public void init(FilterConfig filterConfig) throws ServletException {
+
+    }
+
     public void doFilter(ServletRequest req, ServletResponse resp, FilterChain chain) throws IOException,
             ServletException {
         System.out.println("进入到验证有没有登录过的过滤器");
@@ -49,6 +53,10 @@ public class LoginFilter implements Filter {
         }
 
 
+
+    }
+
+    public void destroy() {
 
     }
 }
