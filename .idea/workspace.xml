@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7014f5f-1abf-4775-bdb7-0b545b5be4a0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/crm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/crm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lsx/crm/exception/LoginException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lsx/crm/exception/LoginException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lsx/crm/settings/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lsx/crm/settings/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lsx/crm/settings/dao/UserDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lsx/crm/settings/dao/UserDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lsx/crm/settings/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lsx/crm/settings/domain/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lsx/crm/settings/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lsx/crm/settings/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lsx/crm/settings/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lsx/crm/settings/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lsx/crm/settings/web/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lsx/crm/settings/web/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lsx/crm/utils/DateTimeUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lsx/crm/utils/DateTimeUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lsx/crm/utils/MD5Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lsx/crm/utils/MD5Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lsx/crm/utils/PrintJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lsx/crm/utils/PrintJson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lsx/crm/utils/ServiceFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lsx/crm/utils/ServiceFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lsx/crm/utils/SqlSessionUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lsx/crm/utils/SqlSessionUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lsx/crm/utils/TransactionInvocationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lsx/crm/utils/TransactionInvocationHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lsx/crm/utils/UUIDUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lsx/crm/utils/UUIDUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lsx/crm/vo/paginationVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lsx/crm/vo/paginationVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lsx/crm/web/filter/EncodingFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lsx/crm/web/filter/EncodingFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lsx/crm/web/filter/LoginFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lsx/crm/web/filter/LoginFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lsx/crm/workbench/dao/ActivityDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lsx/crm/workbench/dao/ActivityDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lsx/crm/workbench/dao/ActivityDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lsx/crm/workbench/dao/ActivityDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lsx/crm/workbench/dao/ActivityRemarkDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lsx/crm/workbench/dao/ActivityRemarkDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lsx/crm/workbench/dao/ActivityRemarkDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lsx/crm/workbench/dao/ActivityRemarkDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lsx/crm/workbench/domain/Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lsx/crm/workbench/domain/Activity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lsx/crm/workbench/domain/ActivityRemark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lsx/crm/workbench/domain/ActivityRemark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lsx/crm/workbench/service/ActivityService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lsx/crm/workbench/service/ActivityService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lsx/crm/workbench/service/impl/ActivityServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lsx/crm/workbench/service/impl/ActivityServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lsx/crm/workbench/web/controller/ActivityController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lsx/crm/workbench/web/controller/ActivityController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/jquery/jquery-1.11.1-min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/jquery/jquery-1.11.1-min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/settings/dept/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/settings/dept/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/settings/dictionary/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/settings/dictionary/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/settings/dictionary/type/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/settings/dictionary/type/edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/settings/dictionary/type/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/settings/dictionary/type/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/settings/dictionary/type/save.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/settings/dictionary/type/save.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/settings/dictionary/value/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/settings/dictionary/value/edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/settings/dictionary/value/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/settings/dictionary/value/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/settings/dictionary/value/save.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/settings/dictionary/value/save.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/settings/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/settings/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/settings/qx/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/settings/qx/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/settings/qx/user/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/settings/qx/user/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/settings/qx/user/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/settings/qx/user/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/test2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/test2.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/workbench/activity/detail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/workbench/activity/detail.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/workbench/activity/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/workbench/activity/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/workbench/chart/transaction/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/workbench/clue/convert.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/workbench/clue/convert.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/workbench/clue/detail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/workbench/clue/detail.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/workbench/clue/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/workbench/clue/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/workbench/contacts/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/workbench/contacts/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/workbench/contacts/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/workbench/contacts/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/workbench/customer/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/workbench/customer/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/workbench/customer/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/workbench/customer/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/workbench/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/workbench/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/workbench/main/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/workbench/main/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/workbench/transaction/detail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/workbench/transaction/detail.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/workbench/transaction/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/workbench/transaction/edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/workbench/transaction/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/workbench/transaction/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/workbench/transaction/save.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/workbench/transaction/save.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/workbench/visit/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/workbench/visit/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/workbench/visit/editTask.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/workbench/visit/editTask.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/workbench/visit/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/workbench/visit/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/workbench/visit/saveTask.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/workbench/visit/saveTask.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/lsx/settings/test/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/lsx/settings/test/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/crm.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lsx/crm/settings/dao/UserDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lsx/crm/settings/dao/UserDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lsx/crm/web/filter/EncodingFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lsx/crm/web/filter/EncodingFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lsx/crm/web/filter/LoginFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lsx/crm/web/filter/LoginFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lsx/crm/workbench/dao/ActivityDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lsx/crm/workbench/dao/ActivityDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lsx/crm/workbench/dao/ActivityDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lsx/crm/workbench/dao/ActivityDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lsx/crm/workbench/dao/ActivityRemarkDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lsx/crm/workbench/dao/ActivityRemarkDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lsx/crm/workbench/service/ActivityService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lsx/crm/workbench/service/ActivityService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lsx/crm/workbench/service/impl/ActivityServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lsx/crm/workbench/service/impl/ActivityServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mybatis-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/WEB-INF/classes/META-INF/crm.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/WEB-INF/classes/com/lsx/crm/settings/dao/UserDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/WEB-INF/classes/com/lsx/crm/settings/dao/UserDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/WEB-INF/classes/com/lsx/crm/web/filter/EncodingFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/WEB-INF/classes/com/lsx/crm/web/filter/EncodingFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/WEB-INF/classes/com/lsx/crm/web/filter/LoginFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/WEB-INF/classes/com/lsx/crm/web/filter/LoginFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/WEB-INF/classes/com/lsx/crm/workbench/dao/ActivityDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/WEB-INF/classes/com/lsx/crm/workbench/dao/ActivityDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/WEB-INF/classes/com/lsx/crm/workbench/dao/ActivityDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/WEB-INF/classes/com/lsx/crm/workbench/dao/ActivityDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/WEB-INF/classes/com/lsx/crm/workbench/dao/ActivityRemarkDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/WEB-INF/classes/com/lsx/crm/workbench/dao/ActivityRemarkDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/WEB-INF/classes/com/lsx/crm/workbench/service/ActivityService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/WEB-INF/classes/com/lsx/crm/workbench/service/ActivityService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/WEB-INF/classes/com/lsx/crm/workbench/service/impl/ActivityServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/WEB-INF/classes/com/lsx/crm/workbench/service/impl/ActivityServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/WEB-INF/classes/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/WEB-INF/classes/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/WEB-INF/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/WEB-INF/classes/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/WEB-INF/classes/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/WEB-INF/classes/mybatis-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/jquery/jquery-1.11.1-min.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/jquery/jquery-1.11.1-min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/settings/dept/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/settings/dept/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/settings/dictionary/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/settings/dictionary/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/settings/dictionary/type/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/settings/dictionary/type/edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/settings/dictionary/type/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/settings/dictionary/type/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/settings/dictionary/type/save.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/settings/dictionary/type/save.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/settings/dictionary/value/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/settings/dictionary/value/edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/settings/dictionary/value/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/settings/dictionary/value/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/settings/dictionary/value/save.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/settings/dictionary/value/save.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/settings/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/settings/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/settings/qx/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/settings/qx/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/settings/qx/user/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/settings/qx/user/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/settings/qx/user/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/settings/qx/user/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/test2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/test2.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/workbench/activity/detail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/workbench/activity/detail.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/workbench/activity/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/workbench/activity/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/workbench/chart/transaction/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/workbench/contacts/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/workbench/contacts/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/workbench/customer/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/workbench/customer/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/workbench/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/workbench/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/workbench/main/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/workbench/main/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/workbench/transaction/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/workbench/transaction/edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/workbench/visit/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/workbench/visit/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/workbench/visit/editTask.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/workbench/visit/editTask.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/workbench/visit/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/workbench/visit/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/workbench/visit/saveTask.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/crm-1.0-SNAPSHOT/workbench/visit/saveTask.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.5.2-bin/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\crm\apache-maven-3.5.2-bin\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8.0_144" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="2662IlN7I8JoPjbHkoXY6Hmz3Sn" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7014f5f-1abf-4775-bdb7-0b545b5be4a0" name="Default Changelist" comment="" />
+      <created>1646729637943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646729637943</updated>
+      <workItem from="1646729644145" duration="4000" />
+    </task>
+    <servers />
+  </component>
+</project>
